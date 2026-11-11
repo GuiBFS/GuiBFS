@@ -3,7 +3,7 @@
 
 # Hey, I'm Zelky 👋
 
-### Full-Stack Developer
+### Júnior Developer
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
 [![Website](https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://SEU-SITE.com)
@@ -15,7 +15,7 @@
 
 ## 🙋 About Me
 
-- 🔭 I'm a Full-Stack Developer passionate about technology.
+- 🔭 I'm a Júnior Developer passionate about technology.
 - 💻 I enjoy building applications and solving problems through code.
 - 🚀 Always learning new technologies and improving my skills.
 - 🎯 Focused on writing clean, efficient and maintainable code.
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBFSO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBFS&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBFS&layout=compact&theme=dark&hide_border=true"/>
 
@@ -74,6 +74,6 @@
 
 ### Thanks for visiting my profile! 💜
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=GuiBFS&color=blueviolet&style=flat-square)
 
 </div>
