@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Zelku 👋
+# Hey, I'm Zelky 👋
 
 ### Full-Stack Developer
 
@@ -58,13 +58,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBFSO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBFS&layout=compact&theme=dark&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiBFS&theme=dark&hide_border=true" />
 
 </div>
 
