@@ -5,9 +5,8 @@
 
 ### Júnior Developer
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Website](https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://SEU-SITE.com)
-[![Email](https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bfg/)
+[![Email](https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:guilhermebfg417@gmail.com)
 
 </div>
 
